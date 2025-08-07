@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Harry Potter and the Philosopher's Stone",
+    "description": "Harry Potter and the Philosopher's Stone (also known as Harry Potter and the Sorcerer's Stone in the United States) is a 2001 fantasy film directed by Chris Columbus and produced by David Heyman, from a screenplay by Steve Kloves, based on the 1997 novel of the same name by J. K. Rowling. It is the first instalment in the Harry Potter film series. The film stars Daniel Radcliffe as Harry Potter, with Rupert Grint as Ron Weasley, and Emma Watson as Hermione Granger. Its story follows Harry's first year at Hogwarts School of Witchcraft and Wizardry as he discovers that he is a famous wizard and begins his formal wizarding education.",
+    "rating": 7.1,
+    "genre": "Fantasy",
+    "actors": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "John Cleese",
+      "Robbie Coltrane",
+      "Warwick Davis",
+      "Richard Griffiths",
+      "Richard Harris",
+      "Ian Hart",
+      "John Hurt",
+      "Alan Rickman",
+      "Fiona Shaw",
+      "Maggie Smith",
+      "Julie Walters"
+    ],
+    "poster": "https://upload.wikimedia.org/wikipedia/en/7/7a/Harry_Potter_and_the_Philosopher%27s_Stone_banner.jpg"
+  },
+  {
+    "name": "Garfield: The Movie1",
+    "description": "Garfield: The Movie is a 2004 American comedy film based on Jim Davis' comic strip Garfield. Directed by Peter Hewitt and written by Joel Cohen and Alec Sokolow, it stars Breckin Meyer as Jon Arbuckle, Jennifer Love Hewitt as Dr. Liz Wilson and features Bill Murray as the voice of Garfield, who was created with computer-generated imagery.",
+    "rating": 3.52,
+    "genre": "Fantasy",
+    "actors": [
+      "Breckin Meyer",
+      "Jennifer Love Hewitt",
+      "Stephen Tobolowsky",
+      "Bill Murray"
+    ],
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Garfield_ver6.jpg/220px-Garfield_ver6.jpg"
+  },
+  {
+    "name": "s",
+    "description": "adasdadasd",
+    "rating": 10.0,
+    "genre": "s",
+    "actors": ["s"],
+    "poster": "s"
+  },
+  {
+    "name": "ado",
+    "description": "ado dest",
+    "rating": 10.0,
+    "genre": "singer",
+    "actors": ["ado"],
+    "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRouKXgb0WzBCja5ccP5QG5w5tBYehhjAwfxbxfydlcClB9tToF7v0Clt-nymZ596iacN_6_o8VNzBWaX-nw_jwpo4xktSYnSyYvZA6pGtXQg"
+  },
+  {
+    "name": "Inception",
+    "description": "A skilled thief is offered a chance to have his past crimes forgiven if he implants another person's idea into a target's subconscious.",
+    "rating": 8.8,
+    "genre": "Sci-Fi",
+    "actors": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page",
+      "Tom Hardy"
+    ],
+    "poster": "https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg"
+  },
+  {
+    "name": "Interstellar",
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "rating": 8.6,
+    "genre": "Sci-Fi",
+    "actors": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine"
+    ],
+    "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
+  },
+  {
+    "name": "Spider-Man: Into the Spider-Verse",
+    "description": "Teen Miles Morales becomes Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+    "rating": 8.4,
+    "genre": "Animation",
+    "actors": [
+      "Shameik Moore",
+      "Jake Johnson",
+      "Hailee Steinfeld",
+      "Mahershala Ali"
+    ],
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f3/Spider-Man_Into_the_Spider-Verse_poster.png"
+  },
+  {
+    "name": "Shrek",
+    "description": "An ogre's swamp is invaded by fairy tale creatures, leading him to confront Lord Farquaad and rescue Princess Fiona.",
+    "rating": 7.9,
+    "genre": "Comedy",
+    "actors": [
+      "Mike Myers",
+      "Eddie Murphy",
+      "Cameron Diaz",
+      "John Lithgow"
+    ],
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/39/Shrek.jpg"
+  }
+]
